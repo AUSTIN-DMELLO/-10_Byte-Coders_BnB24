@@ -15,7 +15,7 @@ if(isset($USER)){
 
 ?>
 <div id="blue_bar">
-            <div style="width: 800px; margin: auto; font-size: 30px; text-align:center;">Forum
+            <div style="width: 800px; margin: auto; font-size: 30px; text-align:center;">Corruption Watch
                 <img src="<?php echo $corner_image ?>" alt="" style="width: 50px; float: right;">
                 </a>
                 <a href="Logout.php">
